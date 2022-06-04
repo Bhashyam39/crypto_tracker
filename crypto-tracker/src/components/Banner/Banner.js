@@ -41,7 +41,7 @@ function Banner() {
               fontFamily: "Montserrat",
             }}
           >
-            GENERAL'S CRYTPO HUNTING
+            Bhashyam's Crypto Mining
           </Typography>
           <Typography
             variant="subtitle2"
